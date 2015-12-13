@@ -1,0 +1,7 @@
+It was helpful
+if there a mistake is made or when the path we have taken is not right one can go back to the previous version
+We can manually commit when there is a need to save. we may create code which are wrong and are not to be saved. if we the versions are saved automatically unwanted or wrong code might get saved
+Git is meant for code. Projects contain several files and it is good to keep track of all the files together rather than files separately
+git log gives ids of various commits to the project and git diff gives the difference between 2 commits
+git saves previous versions helps us to compare between 2 version and get back to an older version if required
+development

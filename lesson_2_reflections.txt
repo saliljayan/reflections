@@ -1,0 +1,1 @@
+git initializes a repository. creates .git folder.
