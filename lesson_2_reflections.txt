@@ -1,3 +1,3 @@
 git initializes a repository. creates .git folder.
 staging area is inbetween repository and working directory
-temporary data
+can add files to staging area once a logical change is made
