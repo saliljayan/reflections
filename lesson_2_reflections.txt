@@ -3,3 +3,4 @@ staging area is inbetween repository and working directory
 can add files to staging area once a logical change is made
 to experiment with your code, to try to create a new feature, or if more than one person is working on the code
 diagrams help to visualize the branches
+the commits of the second branch will be added to the main branch.
