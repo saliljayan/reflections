@@ -5,3 +5,4 @@ clone - when you have to make changes to the repository already in the git hub.
 branches - when you are experimenting on a new feature on your current repository
 you would be able to compare the state of your repository with that of the remote offline as well.
 it would be very easy to collaborate using git hub
+whenever you create a new feature or do any sort of change to the code you create a separate branch
